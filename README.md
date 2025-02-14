@@ -1,29 +1,16 @@
-# test-task
+Tour Card Component
+Описание
+Компонент Tour Card представляет собой карточку с информацией о туре, отеле или предложении. Включает рейтинги, отзывы, информацию о расположении, цене и доступных опциях для путешественников. Это полезный компонент для отображения туров или отелей в приложении или на сайте.
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Технологии
+Vue 3 — для создания компонента и обработки логики.
+SCSS — для стилизации компонента.
+Vue 3 Composition API — для работы с состоянием и обработчиками.
+Установка и настройка
+1. Установка зависимостей
+Перед тем как запустить проект, необходимо установить все зависимости. В корне проекта выполните команду:
+#npm install
+2. Запуск проекта
+Чтобы запустить проект локально, используйте команду:
+#npm run dev
+После этого, приложение будет доступно по адресу http://localhost:5173.
